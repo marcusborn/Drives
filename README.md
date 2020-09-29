@@ -1,16 +1,13 @@
 # Drives
 A repository to help me learn about drives and also help others studying drive systems :)
 
+This is a method to figure out the most efficient gear changes in a car with just some basic data. 
 
-1.0 - Problem: This is the first step to calculating the best RPM to change gears.
+1.0 - Problem: This is the first step to calculating the best RPM to change gears with just very little data given in a broshure 
 
-A brochure of a passenger car contains the following data:
-Maximum torque of the internal combustion engine:
-150 Nm at 3000 rpm
-Torque range of the internal combustion engine:
-90% of the maximum torque from 2000 rpm to 5000 rpm
-Please draw the torque and power diagrams for this internal combustion
-engine!
+With data taken from a car broshure we know the maximum torque of the internal combustion engine is 150 Nm at 3000 rpm. The torque of the engine falls to 90% of the maximum torque at 2000 rpm and at 5000 rpm.
+
+From here we can graph the curve of power and Torque. 
 
 Solution:
 
