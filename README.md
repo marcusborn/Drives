@@ -11,11 +11,11 @@ From here we can graph the curve of power and Torque.
 
 Solution:
 
-![Alt Text](https://github.com/marcusborn/Drives/blob/master/1.0%20solutions.PNG)
+![Alt Text](https://github.com/marcusborn/Drives/blob/master/1.0%20solutions%20mx5%203-points.png)
 
 Graph:
 
-![Alt Text](https://github.com/marcusborn/Drives/blob/master/1.0%20graph.PNG)
+![Alt Text](https://github.com/marcusborn/Drives/blob/master/1.0%20graph%20mx5%203-points.png)
 
 
 This graph shows us the torque charactaristics for this engine. It should be clear that the most efficient operational speed is at 3000rpm. This will later help us determine the optimal time to change gears.
